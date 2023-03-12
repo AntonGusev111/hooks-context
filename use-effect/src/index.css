@@ -1,0 +1,23 @@
+.Menubtn {
+    text-align: center;
+    width: 150px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.Menubtn:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+.MenuBtnActive{
+    background-color: aqua;
+}
+
+.Main{
+    display: flex;
+}
+
+.Item{
+    margin-left: 50px;
+}
